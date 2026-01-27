@@ -39,8 +39,8 @@ This project was created to practice core Java concepts such as input handling, 
 
 Some improvements and refinements have been identified.
 
-- All known issues are documented in the GitHub Issues section.
-- Fixes and enhancements are planned and will be added shortly.
+- ➡️ All known issues are documented in the GitHub Issues section.
+- ➡️Fixes and enhancements are planned and will be added shortly.
 
 ---
 
