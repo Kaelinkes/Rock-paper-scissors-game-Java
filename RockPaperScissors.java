@@ -56,6 +56,3 @@ public class RockPaperScissors {
     else{System.err.println( "You lose!");}
    }
 }
-    //else if(user_pick.equals("PAPER") && bot_pick.equals("SCISSORS")){System.out.println("You lose ");}
-    //else if(user_pick.equals("ROCK") && bot_pick.equals("PAPER")){System.out.println("You lose ");}
-    //else if(user_pick.equals("SCISSORS") && bot_pick.equals("ROCK")){System.out.println("You lose");}
