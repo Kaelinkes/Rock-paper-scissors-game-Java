@@ -1,4 +1,4 @@
-# Rock Paper Scissors (Java)
+# Rock Paper Scissors (Java console app)
 
 A simple console-based **Rock Paper Scissors** game written in **Java**.  
 This project was created to practice core Java concepts such as input handling, control flow, methods, and basic program structure.
