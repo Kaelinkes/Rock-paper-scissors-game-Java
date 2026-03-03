@@ -46,7 +46,7 @@ public class RockPaperScissors {
             return true;
         }
    }
-
+    
    static void Outcome(String user_pick, String bot_pick){
     user_pick = user_pick.toUpperCase();
     if (user_pick.equals(bot_pick)) {System.out.println("You tied! ");}
